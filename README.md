@@ -47,6 +47,9 @@ storage management, RAID configuration, and system monitoring all using WSL (Ubu
 ---
 
 ## 📷 Screenshots
+<img width="765" height="248" alt="lsblk png" src="https://github.com/user-attachments/assets/6ff1ef12-e9df-4202-948d-4467f5f7bc77" />
+<img width="1103" height="422" alt="df-h png" src="https://github.com/user-attachments/assets/11b2d86d-1784-44ef-87f5-48021fd355fc" />
+<img width="1047" height="141" alt="free -h png" src="https://github.com/user-attachments/assets/86eae5d3-40e9-4063-ad66-868cdd02312c" />
 
 
 ---

@@ -7,7 +7,7 @@
 
 ## 📌 Overview
 Hands-on lab project simulating real-world Linux system administration tasks including
-storage management, RAID configuration, and system monitoring — all using WSL (Ubuntu).
+storage management, RAID configuration, and system monitoring all using WSL (Ubuntu).
 
 ---
 
@@ -47,7 +47,7 @@ storage management, RAID configuration, and system monitoring — all using WSL 
 ---
 
 ## 📷 Screenshots
-*(Add screenshots of your terminal here — see instructions below)*
+
 
 ---
 

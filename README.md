@@ -79,7 +79,7 @@ storage management, RAID configuration, and system monitoring all using WSL (Ubu
 ### 5️⃣ RAID Module — `mdadm --version`
 > Confirms mdadm is installed and ready for RAID configuration on the system.
 
-[drop mdadm screenshot here]
+<img width="755" height="100" alt="mdstat png" src="https://github.com/user-attachments/assets/e9ceb93b-e323-4e2a-a2bd-1a64b7795fb3" />
 
 ---
 

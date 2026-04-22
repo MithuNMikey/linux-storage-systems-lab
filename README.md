@@ -50,22 +50,36 @@ storage management, RAID configuration, and system monitoring all using WSL (Ubu
 
 ### 1️⃣ Block Devices — `lsblk`
 > Lists all storage devices recognized by the system.
+
 <img width="765" height="248" alt="lsblk png" src="https://github.com/user-attachments/assets/6ff1ef12-e9df-4202-948d-4467f5f7bc77" />
+
 ---
+
 ### 2️⃣ Disk Space Usage — `df -h`
 > Shows filesystem sizes and mount points.
+
 <img width="1103" height="422" alt="df-h png" src="https://github.com/user-attachments/assets/11b2d86d-1784-44ef-87f5-48021fd355fc" />
+
 ---
+
 ### 3️⃣ Memory Usage — `free -h`
 > Displays RAM and swap usage.
+
 <img width="1047" height="141" alt="free -h png" src="https://github.com/user-attachments/assets/86eae5d3-40e9-4063-ad66-868cdd02312c" />
+
 ---
+
 ### 4️⃣ Network Interfaces — `ip a`
 > Shows active network interfaces and IP addresses.
+
 <img width="1221" height="387" alt="ip-a png" src="https://github.com/user-attachments/assets/9e974858-5f59-4913-87a2-d5a608eac3b6" />
+
 ---
+
 ### 5️⃣ RAID Module — `mdadm --version`
 > Confirms mdadm is installed and ready for RAID configuration on the system.
+
+[drop mdadm screenshot here]
 
 ---
 

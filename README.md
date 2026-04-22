@@ -59,4 +59,4 @@ storage management, RAID configuration, and system monitoring all using WSL (Ubu
 |------|-------------|
 | `commands.md` | All commands used with explanations |
 | `raid-notes.md` | RAID concepts and recovery steps |
-| `screenshots/` | Terminal screenshots from the lab |
+
